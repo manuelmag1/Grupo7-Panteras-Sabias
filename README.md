@@ -1,2 +1,12 @@
-# Grupo7-Panteras-Sabias
-Repositorio oficial del equipo 'Panteras Sabias'. Proyecto colaborativo para el curso de Programación para Videojuegos (UNAD), enfocado en el desarrollo de prototipos con Unity 3D y buenas prácticas de versionamiento.
+# 🐆 Grupo 7 - Panteras Sabias
+
+Bienvenidos al repositorio oficial de nuestro equipo para el curso de **Programación para Videojuegos**.
+
+## 🚀 Acerca del Proyecto
+Este espacio está dedicado al desarrollo colaborativo de nuestro prototipo de videojuego. Aquí aplicaremos conocimientos sobre:
+* **Motor de Desarrollo:** Unity 3D
+* **Gestión:** Control de versiones con Git & GitHub
+* **Roles:** Integración de Programadores, Artistas, Diseñadores y Testers.
+
+## 🎯 Objetivo
+Planear y construir la lógica y entorno de un videojuego funcional, documentando cada paso de nuestro aprendizaje y fortaleciendo nuestras habilidades de trabajo en equipo.
